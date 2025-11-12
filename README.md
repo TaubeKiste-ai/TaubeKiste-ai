@@ -9,8 +9,10 @@
 
 
 
+<div align="center">
 
 [![Typing SVG](https://typingsvg.vercel.app/api/svg?backgroundColor=%23000000&cursorStyle=underline&lines=%5B%7B%22text%22%3A%22Hi+There%21%22%2C%22font%22%3A%22Space+Mono%22%2C%22color%22%3A%22%233584e4%22%2C%22typingSpeed%22%3A0.2%2C%22deleteSpeed%22%3A0.125%2C%22fontWeight%22%3A%22700%22%7D%2C%7B%22text%22%3A%22Im+TaubeKiste%22%2C%22font%22%3A%22Space+Mono%22%2C%22color%22%3A%22%233584e4%22%2C%22typingSpeed%22%3A0.2%2C%22deleteSpeed%22%3A0.125%2C%22fontWeight%22%3A%22700%22%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
+</div>
 
 
 
@@ -23,7 +25,7 @@ Most of my work focuses on building efficient, privacy-respecting setups for med
 
 ## 🧠 Focus Areas
 - 🐧 **Linux & DevOps:** Kubuntu · Arch · Docker · Portainer · Bash · PowerShell  
-- 📦 **Self-Hosting:** Synology DSM · Nginx · Tdarr · Jellyfin · Paperless-NGX · n8n  
+- 📦 **Self-Hosting:** Synlogy DSM · Nginx · Tdarr · Jellyfin · Paperless-NGX · n8n  
 - 🎥 **Media Processing:** FFmpeg · HandBrake · GPU-Accelerated Transcoding · Workflow Optimization  
 - 🧩 **Automation & Scripting:** Python · JSON/CSV pipelines · Task Automation  
 - 🌐 **Networking & Servers:** Reverse Proxies · VLANs · Ubiquiti · VM/Container orchestration  
@@ -43,7 +45,7 @@ Most of my work focuses on building efficient, privacy-respecting setups for med
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,docker,python,bash,git,vscode,nginx,powershell,ubuntu" />
-  <img src="https://skillicons.dev/icons?i=nodejs,ffmpeg,obsidian,arch,github" />
+  <img src="https://skillicons.dev/icons?i=nodejs,ffmpeg,obsidian,debian,github" />
 </p>
 
 ---
@@ -69,7 +71,4 @@ Most of my work focuses on building efficient, privacy-respecting setups for med
 
 ---
 
-### 💡 Motto
-> “Automate the boring stuff. Build the elegant stuff. Host the private stuff.”
 
----
