@@ -10,11 +10,7 @@
 
 
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TaubeKiste-ai.TaubeKiste-ai" />
-
-<h1 align="center">
-    <img class="image" src="header.svg" alt="Click to see the source">
-</h1>
+[![Typing SVG](https://typingsvg.vercel.app/api/svg?backgroundColor=%23000000&cursorStyle=underline&lines=%5B%7B%22text%22%3A%22Hi+There%21%22%2C%22font%22%3A%22Space+Mono%22%2C%22color%22%3A%22%233584e4%22%2C%22typingSpeed%22%3A0.2%2C%22deleteSpeed%22%3A0.125%2C%22fontWeight%22%3A%22700%22%7D%2C%7B%22text%22%3A%22Im+TaubeKiste%22%2C%22font%22%3A%22Space+Mono%22%2C%22color%22%3A%22%233584e4%22%2C%22typingSpeed%22%3A0.2%2C%22deleteSpeed%22%3A0.125%2C%22fontWeight%22%3A%22700%22%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
 
 
 
